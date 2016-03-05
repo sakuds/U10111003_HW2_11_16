@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class RepeatAdditionQuiz{
 	public static void main(String[] args) {
-    // Create datafields
+		// Create datafields
 		int number1 = (int)(Math.random() * 10);
 		int number2 = (int)(Math.random() * 10);
 
